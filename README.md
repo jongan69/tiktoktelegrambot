@@ -48,4 +48,6 @@ TELEGRAM_TOKEN=your_telegram_bot_token_here
 ```bash
 python telegrambot.py
 ```
-# tiktoktelegrambot
+
+6. Start the bot by sending `/start` to your bot in Telegram.
+

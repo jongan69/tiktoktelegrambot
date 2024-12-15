@@ -6,7 +6,6 @@ A Telegram bot that allows you to easily upload videos to TikTok, with support f
 
 - ✨ Upload videos directly through Telegram
 - 📅 Schedule uploads up to 10 days in advance
-- 🔐 Support for multiple TikTok accounts
 - 🎯 Customizable video titles
 - 🛠️ Simple command interface
 
